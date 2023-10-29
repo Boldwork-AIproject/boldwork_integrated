@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Boldwork-AIproject/boldwork_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Boldwork-AIproject/boldwork_frontend.git
